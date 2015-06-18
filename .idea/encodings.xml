@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/MainFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Safe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/security/AES.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/security/DES.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/security/MD5.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/security/RSA.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/tabPanels/AESPanel.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
